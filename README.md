@@ -1,6 +1,6 @@
 # Text Processing and FastText Model Training
 
-This repository contains Python code for text processing and FastText model training on the Extrovert-Introvert dataset for the Language ad AI course. The code is organized into three main components:
+This repository contains Python code for text processing and FastText model training on the Extrovert-Introvert dataset and trying to judgmental or perceiving Reddit users to introvert or extroverts for the Language ad AI course. The code is organized into three main components:
 
 1. **Data Processing (`data_processor.py`):** This module processes the Extrovert-Introvert dataset, including filtering common IDs with another dataset, writing filtered data to CSV files, and splitting the dataset into training and testing sets.
 
